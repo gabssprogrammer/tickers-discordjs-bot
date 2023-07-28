@@ -17,4 +17,7 @@ I'm currently working on an exclusive bot for the STAR ATLAS community. It's bui
 You can contact me via email at ksgeladeira@gmail.com or find me on Discord as "gabsstaratlas" (Discord ID).
 
 Let's connect and share knowledge on GitHub!
-
+1. Install the required dependencies using npm:
+```bash
+npm install discord.js
+npm install axios
