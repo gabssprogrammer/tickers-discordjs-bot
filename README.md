@@ -20,7 +20,7 @@ I'm always seeking to improve my skills, and currently, I'm focused on deepening
 I'm open to collaborating on interesting and challenging projects. If you have a cool project and think I can contribute, feel free to get in touch!
 
 ## How to reach me
-You can reach me via the following email: your.email@example.com
+You can reach me via the following email: ksgeladeira@gmail.com
 
 ## Let's connect!
 If you're also passionate about programming and technology, let's connect on GitHub and share knowledge!
