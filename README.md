@@ -14,7 +14,7 @@ Hello! I'm a 22-year-old Brazilian programmer with a passion for technology and 
 I'm currently working on an exclusive bot for the STAR ATLAS community. It's built using Node.js and utilizes `discord.js` for Discord interactions and `axios` for handling HTTP requests.
 
 ## How to reach me
-You can contact me via email at your.email@example.com or find me on Discord as "gabsstaratlas#1234" (Discord ID).
+You can contact me via email at ksgeladeira@gmail.com or find me on Discord as "gabsstaratlas" (Discord ID).
 
 Let's connect and share knowledge on GitHub!
 
