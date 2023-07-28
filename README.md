@@ -2,7 +2,7 @@
 # 👋 Hi there! I'm @gabssprogrammer
 
 ## About me
-Hello! I'm a 22-year-old Brazilian programmer who's passionate about technology and software development. My main areas of expertise include C#, JavaScript, TypeScript, C++, Java, Front-end, and Back-end. Additionally, I enjoy building bots using Node.js.
+Hello! I'm a 22-year-old Brazilian programmer with a passion for technology and software development. My main areas of expertise include C#, JavaScript, TypeScript, C++, Java, Front-end, and Back-end. I also enjoy building bots using Node.js.
 
 ## Interests
 - Software development
@@ -10,18 +10,11 @@ Hello! I'm a 22-year-old Brazilian programmer who's passionate about technology 
 - Learning new technologies
 - Problem-solving
 
-## Currently Learning
-I'm always seeking to improve my skills, and currently, I'm focused on deepening my knowledge in the following areas:
-- Artificial Intelligence
-- Advanced Web Development
-- Software Architecture
-
-## Collaboration
-I'm open to collaborating on interesting and challenging projects. If you have a cool project and think I can contribute, feel free to get in touch!
+## Current Project: STAR ATLAS Community Bot
+I'm currently working on an exclusive bot for the STAR ATLAS community. It's built using Node.js and utilizes `discord.js` for Discord interactions and `axios` for handling HTTP requests.
 
 ## How to reach me
-You can reach me via the following email: ksgeladeira@gmail.com
+You can contact me via email at your.email@example.com or find me on Discord as "gabsstaratlas#1234" (Discord ID).
 
-## Let's connect!
-If you're also passionate about programming and technology, let's connect on GitHub and share knowledge!
+Let's connect and share knowledge on GitHub!
 
