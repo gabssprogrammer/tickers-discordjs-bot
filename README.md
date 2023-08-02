@@ -1,15 +1,6 @@
 # tickers-discordjs-bot
-# 👋 Hi there! I'm @gabssprogrammer
 
-## About me
-Hello! I'm a 22-year-old Brazilian programmer with a passion for technology and software development. My main areas of expertise include C#, JavaScript, TypeScript, C++, Java, Front-end, and Back-end. I also enjoy building bots using Node.js.
-
-## Interests
-- Software development
-- Programming
-- Learning new technologies
-- Problem-solving
-
+![Project Logo/Thumbnail](https://i.imgur.com/8yozVsX.png)
 ## Current Project: STAR ATLAS Community Bot
 I'm currently working on an exclusive bot for the STAR ATLAS community. It's built using Node.js and utilizes `discord.js` for Discord interactions and `axios` for handling HTTP requests.
 
